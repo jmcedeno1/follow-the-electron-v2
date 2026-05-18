@@ -1,6 +1,6 @@
-import React, { useRef, useMemo } from 'react';
+import { useRef, useMemo } from 'react';
 import { Canvas, useFrame } from '@react-three/fiber';
-import { Float, Line, Grid } from '@react-three/drei';
+import { Line } from '@react-three/drei';
 import * as THREE from 'three';
 import { 
   Windmill, PowerGrid, PowerUnit, Distribution, 
@@ -100,7 +100,7 @@ function PhysicalLEDStrip() {
 
   const lineRef = useRef<any>(null);
 
-  useFrame((state, delta) => {
+  useFrame((_state, delta) => {
     if (lineRef.current) {
       // Animate the dash offset to simulate a single powerful electric flow
       lineRef.current.material.dashOffset -= delta * 15;

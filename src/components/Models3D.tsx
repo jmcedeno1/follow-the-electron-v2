@@ -8,7 +8,7 @@ class ErrorBoundary extends Component<{fallback: ReactNode, children: ReactNode}
   state = { hasError: false };
   static getDerivedStateFromError() { return { hasError: true }; }
   componentDidCatch(error: Error, errorInfo: React.ErrorInfo) {
-    // Suppress console errors for missing models since they are expected fallbacks
+    console.error("3D Model Error:", error, errorInfo);
   }
   render() {
     if (this.state.hasError) return this.props.fallback;
