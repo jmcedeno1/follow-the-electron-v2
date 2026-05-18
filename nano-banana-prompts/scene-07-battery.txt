@@ -1,0 +1,7 @@
+Nano Banana 2 Prompt — Scene 7: Battery Pack
+
+Generation Prompt
+Cinematic exploded view of an electric vehicle battery pack, elevated three-quarter camera angle looking down into an open brushed-metal housing as if lifting the lid of a precision equipment crate, rows of cylindrical lithium-ion cells arranged in tight geometric formation, cells emitting a warm deep-orange inner glow (#E8601C) from polished metallic tops, single dramatic overhead key light casting hard shadows into the pack's recessed edges and corners, brushed aluminum casing with machined bevels catching subtle specular highlights, deep black environment (#0A0A12), volumetric micro-dust particles suspended in the light column above the pack, photorealistic product photography aesthetic, macro-level material detail on cell surfaces — nickel-plated steel caps, laser-welded tabs, hairline seams on the housing — ultra-sharp focus on the foreground cell array falling into soft darkness at pack periphery, 16:9 widescreen composition, no people, no text, no logos, no UI, no cables, no blue or green color cast, pure automotive industrial mood, CATL Tech Day stage aesthetic, Apple product hero lighting, Tesla cell reveal precision.
+
+What success looks like
+A still-frame you could mistake for a €200K automotive brand campaign shot: jet-black void, one shaft of white light pouring into an open battery casing, and nothing glowing except the cells — all of it in warm orange.
